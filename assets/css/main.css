@@ -3236,11 +3236,11 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: /*#261c3e;*/ #222233;
+			background-color: /*#261c3e;*/ #000022;
 		}
 
 		.wrapper.style1 {
-			background-color: /*#5e42a6;*/ #333344;
+			background-color: /*#5e42a6;*/ #000044;
 		}
 
 		.wrapper.style1-alt {
@@ -3874,10 +3874,10 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: url("images/intro.svg");
+		background-image: url("images/CST-bw-transp.png");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: 100% 100%;
+		background-size: 60%;
 	}
 
 		#intro p {
